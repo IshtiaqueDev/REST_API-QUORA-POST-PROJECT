@@ -18,7 +18,7 @@ This is a simple Quora-like web app built to practice REST APIs and CRUD operati
 ## 📚 What I Learned
 - REST API structure
 - Routing
-- Handling requests (GET, POST, PATCH, DELETE)
+- Handling requests (GET, POST, PATCH, DELETE). 
 
 ---
 This project is part of my learning journey 💻
